@@ -1,0 +1,13 @@
+.background-color{
+    background-color:lavenderblush;
+    height: 400px;
+}
+.text-design{
+    color:midnightblue;
+}
+@media (min-width: 992px) {
+.customer{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+}
