@@ -9,5 +9,5 @@ React,JavaScript, ES6, Bootstrap,HTML,Css,Mongodb, Express.js,Sripe.js,Firebase 
 
 # Deploy
 Firebse, Heroku
-#Live Preview
+# Live Preview
 https://mobile-repair-service-5e8dd.web.app/
