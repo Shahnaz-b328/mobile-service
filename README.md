@@ -6,7 +6,6 @@ Online payment system
 
 # Technologies:
 React,JavaScript, ES6, Bootstrap,HTML,Css,Mongodb, Express.js,Sripe.js,Firebase authentication.
-Deploy: Firebse, Heroku.
 
 # Deploy
 Firebse, Heroku
